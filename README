@@ -1,0 +1,22 @@
+*******************************************************************************
+Information About Project
+*******************************************************************************
+Project Name: 9QUBE
+Project Type: WEB
+Project Author(s): Nitesh Rijal <crackjack@9qube.com>, IP Bastola <ip@9qube.com>Project Designer(s): Shaswot Adhikari <adishaswot@9qube.com>
+*******************************************************************************
+
+*******************************************************************************
+How to contribute in the project
+*******************************************************************************
+1. Download and install GIT <http://git-scm.com/download>
+2. git config --global user.name "Your Name"
+3. git config --global user.email "Your Email"
+4. mkdir 9qube
+4. cd 9qube
+5. git init
+6. touch <file(s)>
+7. git add <file(s)> or git add --all
+8. git commit -m 'Commit Message'
+9. git remote add origin git@github.com:username/9qube.git
+10. git push origin master
