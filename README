@@ -9,7 +9,7 @@ Project Author(s): Nitesh Rijal <crackjack@9qube.com>, IP Bastola <ip@9qube.com>
 *******************************************************************************
 How to contribute in the project
 *******************************************************************************
-1. Download and install GIT <http://git-scm.com/download>
+1. Download and install GIT [http://git-scm.com/download]
 2. git config --global user.name "Your Name"
 3. git config --global user.email "Your Email"
 4. mkdir 9qube
